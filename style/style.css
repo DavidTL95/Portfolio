@@ -12,7 +12,7 @@
     --text-color-light: hsl(var(--hue), 8%, 75%);
     --text-color-lighten: hsl(var(--hue), 8%, 92%);
     --body-color: hsl(var(--hue), 100%, 99%);
-    --container-color: #fff;
+    --container-color: #ffffff;
 
     --body-font: 'Poppins', sans-serif;
     --h2-font-size: 1.25rem;
@@ -152,9 +152,9 @@ body.dark-theme{
     justify-content: center;
 }
 
-.profile__perfil img{
+/* .profile__perfil img{
     width: 75px;
-}
+} */
 
 .profile__border{
     border: 3.5px solid var(--first-color);
